@@ -137,6 +137,7 @@ export default {
   getMovieById,
   getAllQuotesForMovie,
   getAllCharacters,
+  getCharacterById,
   getAllCharacterQuotesById,
   getAllQuotes,
   getQuoteById,
