@@ -5,4 +5,4 @@
 
 ## For NPM
 
-npm install darian-hogue-sdk
+npm install darian_hogue-sdk
